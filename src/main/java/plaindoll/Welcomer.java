@@ -7,4 +7,7 @@ public class Welcomer{
 	public String sayFarewell() {
 		return "Farewell, good hunter. May you find your worth in waking world.";
 	}
+    public String sayDream() {
+		return "A hunter is a hunter, even in a dream.";
+	}
 }
